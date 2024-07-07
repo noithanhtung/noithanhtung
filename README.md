@@ -65,9 +65,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://noithanhtung.com" target="blank">
-    <img width="90" height="90" src="images/logo-noithanhtung-transparent-bg-192x192.png" alt="noithanhtung-blog" />
-  </a>
   <a href="https://facebook.com/noithanhtung.dev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="noithanhtung-facebook" />
   </a>
@@ -84,28 +81,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="noithanhtung-email" />
   </a>
 </div>
-
-<br>
-
-<h2 align="center">📖 My game programming course 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Lập trình game với Nội Thanh Tùng</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://www.youtube.com/c/NoiThanhTungOfficial" target="_blank">Lập Trình Game </a></strong>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/noithanhtung.dev" target="_blank">https://www.facebook.com/noithanhtung</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:noithanhtung.dev@gmail.com" target="_top">noithanhtung.dev@gmail.com</a></strong>
-</p>
-<a href="https://www.youtube.com/c/NoiThanhTungOfficial" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-noithanhtung-scaled.jpeg" width="1200" alt="noithanhtung-official" />
-</a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
