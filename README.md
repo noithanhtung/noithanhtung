@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://facebook.com/noithanhtung.dev" target="blank">
+  <a href="https://facebook.com/noi.thanh.tung" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="noithanhtung-facebook" />
   </a>
   <a href="https://www.youtube.com/@NoiThanhTungChamDev" target="blank">
@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/noithanhtung" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="noithanhtung-linkedin" />
   </a>
-  <a href="https://instagram.com/noithanhtung" target="blank">
+  <a href="https://zalo.me/0868558403" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="noithanhtung-instagram" />
   </a>
   <a href="mailto:noithanhtung.dev@gmail.com" target="top">
