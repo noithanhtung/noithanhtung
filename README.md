@@ -69,7 +69,7 @@
   <a href="https://facebook.com/noithanhtung.dev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="noithanhtung-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/NoiThanhTungOfficial" target="blank">
+  <a href="https://www.youtube.com/@NoiThanhTungChamDev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="noithanhtung-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/noithanhtung" target="blank">
